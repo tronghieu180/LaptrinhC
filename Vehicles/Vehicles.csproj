@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0B2BCC5C-BF1B-4423-AE37-0855984B7582}</ProjectGuid>
+    <ProjectGuid>{21F8FFE9-66F5-4788-8127-115D0AEB1F31}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Company</RootNamespace>
-    <AssemblyName>Company</AssemblyName>
+    <RootNamespace>Vehicles</RootNamespace>
+    <AssemblyName>Vehicles</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Department.cs" />
-    <Compile Include="Employee.cs" />
+    <Compile Include="Car.cs" />
+    <Compile Include="Truck.cs" />
+    <Compile Include="Vehicle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
