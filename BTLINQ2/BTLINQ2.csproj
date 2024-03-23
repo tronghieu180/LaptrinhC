@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0B2BCC5C-BF1B-4423-AE37-0855984B7582}</ProjectGuid>
+    <ProjectGuid>{77E10012-8129-4BC9-9C5F-7330FE8E36FE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Company</RootNamespace>
-    <AssemblyName>Company</AssemblyName>
+    <RootNamespace>BTLINQ2</RootNamespace>
+    <AssemblyName>BTLINQ2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Department.cs" />
     <Compile Include="Employee.cs" />
+    <Compile Include="Posision.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
