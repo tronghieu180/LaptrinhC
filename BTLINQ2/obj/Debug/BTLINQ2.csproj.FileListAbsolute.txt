@@ -1,7 +1,0 @@
-C:\Users\DELL\source\repos\BTLINQ2\BTLINQ2\bin\Debug\BTLINQ2.exe.config
-C:\Users\DELL\source\repos\BTLINQ2\BTLINQ2\bin\Debug\BTLINQ2.exe
-C:\Users\DELL\source\repos\BTLINQ2\BTLINQ2\bin\Debug\BTLINQ2.pdb
-C:\Users\DELL\source\repos\BTLINQ2\BTLINQ2\obj\Debug\BTLINQ2.csproj.AssemblyReference.cache
-C:\Users\DELL\source\repos\BTLINQ2\BTLINQ2\obj\Debug\BTLINQ2.csproj.CoreCompileInputs.cache
-C:\Users\DELL\source\repos\BTLINQ2\BTLINQ2\obj\Debug\BTLINQ2.exe
-C:\Users\DELL\source\repos\BTLINQ2\BTLINQ2\obj\Debug\BTLINQ2.pdb
