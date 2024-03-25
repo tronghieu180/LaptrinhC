@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("thi_gk")]
+[assembly: AssemblyTitle("BTLINQ2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("thi_gk")]
+[assembly: AssemblyProduct("BTLINQ2")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("38dfa327-8aed-4d8a-b50c-e28404d25650")]
+[assembly: Guid("77e10012-8129-4bc9-9c5f-7330fe8e36fe")]
 
 // Version information for an assembly consists of the following four values:
 //

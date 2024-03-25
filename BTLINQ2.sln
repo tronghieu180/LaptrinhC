@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33927.289
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thi_gk", "thi_gk\thi_gk.csproj", "{38DFA327-8AED-4D8A-B50C-E28404D25650}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTLINQ2", "BTLINQ2\BTLINQ2.csproj", "{77E10012-8129-4BC9-9C5F-7330FE8E36FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{38DFA327-8AED-4D8A-B50C-E28404D25650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{38DFA327-8AED-4D8A-B50C-E28404D25650}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{38DFA327-8AED-4D8A-B50C-E28404D25650}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{38DFA327-8AED-4D8A-B50C-E28404D25650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E10012-8129-4BC9-9C5F-7330FE8E36FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E10012-8129-4BC9-9C5F-7330FE8E36FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E10012-8129-4BC9-9C5F-7330FE8E36FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E10012-8129-4BC9-9C5F-7330FE8E36FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7DA7F153-2E55-4802-9B62-DBCD506671AE}
+		SolutionGuid = {15CB897A-E272-443C-892A-65A7530D732E}
 	EndGlobalSection
 EndGlobal

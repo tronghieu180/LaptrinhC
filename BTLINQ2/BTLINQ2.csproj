@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{38DFA327-8AED-4D8A-B50C-E28404D25650}</ProjectGuid>
+    <ProjectGuid>{77E10012-8129-4BC9-9C5F-7330FE8E36FE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>thi_gk</RootNamespace>
-    <AssemblyName>thi_gk</AssemblyName>
+    <RootNamespace>BTLINQ2</RootNamespace>
+    <AssemblyName>BTLINQ2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,13 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bao.cs" />
-    <Compile Include="DanhMuc.cs" />
+    <Compile Include="Department.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="Posision.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Sach.cs" />
-    <Compile Include="TaiLieu.cs" />
-    <Compile Include="TapChi.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

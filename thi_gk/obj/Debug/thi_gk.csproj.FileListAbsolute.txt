@@ -1,7 +1,0 @@
-C:\Users\DELL\source\repos\thi_gk\thi_gk\bin\Debug\thi_gk.exe.config
-C:\Users\DELL\source\repos\thi_gk\thi_gk\bin\Debug\thi_gk.exe
-C:\Users\DELL\source\repos\thi_gk\thi_gk\bin\Debug\thi_gk.pdb
-C:\Users\DELL\source\repos\thi_gk\thi_gk\obj\Debug\thi_gk.csproj.AssemblyReference.cache
-C:\Users\DELL\source\repos\thi_gk\thi_gk\obj\Debug\thi_gk.csproj.CoreCompileInputs.cache
-C:\Users\DELL\source\repos\thi_gk\thi_gk\obj\Debug\thi_gk.exe
-C:\Users\DELL\source\repos\thi_gk\thi_gk\obj\Debug\thi_gk.pdb
