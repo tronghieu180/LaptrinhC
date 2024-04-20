@@ -1,0 +1,34 @@
+﻿@model List<SinhVien>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Danh sách Sinh Viên</title>
+</head>
+<body>
+    <h2>Danh sách Sinh Viên</h2>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Tên</th>
+                <th>Tuổi</th>
+                <th>Lớp</th>
+                <th>Khoa</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var sinhVien in Model)
+            {
+            <tr>
+                <td>@sinhVien.Id</td>
+                <td>@sinhVien.Ten</td>
+                <td>@sinhVien.Tuoi</td>
+                <td>@(sinhVien.Lop != null ? sinhVien.Lop.Ten : "N/A")</td>
+                <td>@(sinhVien.Lop != null && sinhVien.Lop.Khoa != null ? sinhVien.Lop.Khoa.Ten : "N/A")</td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>
